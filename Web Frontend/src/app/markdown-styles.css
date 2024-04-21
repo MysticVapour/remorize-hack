@@ -1,0 +1,23 @@
+/* markdown-styles.css */
+.markdown h1 {
+    font-size: 2.25rem; /* Tailwind's text-3xl */
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .markdown h2 {
+    font-size: 1.875rem; /* Tailwind's text-2xl */
+    margin-top: 0.5rem;
+    margin-bottom: 0.5rem;
+  }
+  
+  .markdown ul {
+    padding-left: 20px;
+    list-style-type: disc;
+  }
+  
+  .markdown ol {
+    padding-left: 20px;
+    list-style-type: decimal;
+  }
+  
